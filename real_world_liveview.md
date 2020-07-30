@@ -73,6 +73,7 @@ paginate: true
 - I'll discuss my experiences, bugs I ran into, and future work
 - Let's focus on authentication and the messaging
 
+---
 
 # Anatomy of a LiveView
 
@@ -703,6 +704,6 @@ def handle_info({:message_created, message}, socket) do
 
 - [@mveytsman](https://twitter.com/mveytsman)
 - [https://max.computer](https://max.computer)
-- Slides: 
+- Slides: [https://github.com/mveytsman/real_world_liveview](https://github.com/mveytsman/real_world_liveview)
 
 
